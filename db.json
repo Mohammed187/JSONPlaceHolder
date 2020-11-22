@@ -1,0 +1,23 @@
+{
+	"employees": [{
+			"username": "Ahmed",
+			"age": 16,
+			"mail": "ahmed@yahoo.com"
+		},
+		{
+			"username": "Muhammed",
+			"age": 12,
+			"mail": "Mo@yahoo.com"
+		},
+		{
+			"username": "Ebrahim",
+			"age": 24,
+			"mail": "Ebrahim@yahoo.com"
+		},
+		{
+			"username": "Yassin",
+			"age": 14,
+			"mail": "Yassin@yahoo.com"
+		}
+	]
+}
